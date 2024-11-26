@@ -17,7 +17,7 @@ Each row in the dataset contains a residential household sale during the period 
 
 “Cleaned Masterfile” columns:
 
-### 0 'date': is the transaction date.
+#### 0 'date': is the transaction date.
 
 1 'quarter': is the quarter based a standard calendar year.
 
