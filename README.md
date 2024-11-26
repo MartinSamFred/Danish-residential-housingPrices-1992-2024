@@ -14,7 +14,7 @@ Uncleaned scraped files are available too (\DKHousingPrices\Raw_ files) [.csv fo
 
 Additional files added/appended to the “Cleaned Masterfile” are available too (DKHousingPrices\Raw_ files\Addtional_data)[.xlsx format only].
 
-Content
+## Content
 Each row in the dataset contains a residential household sale during the period 1992 - 2024.
 
 “Cleaned Masterfile” columns:
