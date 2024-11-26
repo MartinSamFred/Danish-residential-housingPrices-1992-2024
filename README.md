@@ -1,8 +1,8 @@
 # Danish residential house prices (1992-2024)
 
-About the dataset
+# About the dataset
 
-Context
+# Context
 
 The dataset shows approximately 1,5 million residential house sales prices from Denmark ranging from 1992 to 2024. 
 
