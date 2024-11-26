@@ -1,8 +1,6 @@
 # Danish residential house prices (1992-2024)
 
-# About the dataset
-
-# Context
+## About the dataset
 
 The dataset shows approximately 1,5 million residential house sales prices from Denmark ranging from 1992 to 2024. 
 
@@ -41,7 +39,7 @@ Each row in the dataset contains a residential household sale during the period 
 
 *************************************
 
-Uses
+## Uses
 
 Various (statistical) analysis and I assume machine learning as well. 
 
@@ -51,12 +49,12 @@ Uncleaned scraped files are great to practice cleaning, especially string cleani
 
 *************************************
 
-Disclaimer
+## Disclaimer
 The data and information in the data set provided here are intended to be used primarily for educational purposes only. I do not own any data, and all rights are reserved to the respective owners as outlined in “Acknowledgements/sources”. The accuracy of the dataset is not guaranteed accordingly any analysis and/or conclusions it’s solely the users own responsibly and accountability.
 
 *************************************
 
-Acknowledgements/sources 
+## Acknowledgements/sources 
 
 All data is publicly available on:
 
