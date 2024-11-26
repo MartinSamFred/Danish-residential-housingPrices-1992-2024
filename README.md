@@ -20,6 +20,7 @@ Each row in the dataset contains a residential household sale during the period 
 0 'date': is the transaction date.
 
 1 'quarter': is the quarter based a standard calendar year.
+
 2 'house_id': unique house id (could be dropped)
 3 'house_type': can be 'Villa', 'Farm', 'Summerhouse', 'Apartment', 'Townhouse'
 4 'sales_type': can be 'regular_sale', 'family_sale', 'other_sale', 'auction', '-' (“-“ could be dropped)
