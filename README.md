@@ -4,7 +4,7 @@
 
 The dataset shows approximately 1,5 million residential house sales prices from Denmark ranging from 1992 to 2024. 
 
-The dataset has been scraped and cleaned (to some extent). “Cleaned Masterfile”: (DKHousingPrices.parquet). 
+The dataset has been scraped and cleaned (to some extent). Cleaned files are DKHousingprices_1.parquet and DKHousingprices_2.parquet (saved as two due to size).
 
 Cleaning specification as outlined in code: XXXXX
 
