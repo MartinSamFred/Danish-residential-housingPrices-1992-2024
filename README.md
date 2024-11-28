@@ -8,9 +8,9 @@ The dataset has been scraped and cleaned (to some extent). “Cleaned Masterfile
 
 Cleaning specification as outlined in code: XXXXX
 
-Uncleaned scraped files are available too (\DKHousingPrices\Raw_ files) [.csv format only].
+Uncleaned scraped files are available too (\Housing_data_batch1 and 2). Saved in .csv format and compressed as 7-zip files.
 
-Additional files added/appended to the “Cleaned Masterfile” are available too (DKHousingPrices\Raw_ files\Addtional_data)[.xlsx format only].
+Additional files added/appended to the “Cleaned Masterfile” are available too (\Addtional_data) [.xlsx format].
 
 ## Content
 Each row in the dataset contains a residential household sale during the period 1992 - 2024.
