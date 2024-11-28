@@ -2,20 +2,22 @@
 
 ## About the dataset
 
-The dataset shows approximately 1,5 million residential house sales prices from Denmark ranging from 1992 to 2024. 
+The dataset contains approximately 1,5 million residential household sales from Denmark ranging in the periode from 1992 to 2024. 
 
-The dataset has been scraped and cleaned (to some extent). Cleaned files are DKHousingprices_1.parquet and DKHousingprices_2.parquet (saved as two due to size).
+The dataset has been scraped and cleaned (to some extent). Cleaned files are located in: \Housing_data_cleaned \ named DKHousingprices_1 and 2. Saved in parquet format (and saved as two files due to size).
 
-Cleaning specification as outlined in code: XXXXX
+Cleaning from raw files to above cleaned files is outlined in the code section.
 
-Uncleaned scraped files are available too (\Housing_data_batch1 and 2). Saved in .csv format and compressed as 7-zip files.
+Provided you want to clean raw files from scratch yourself:
 
-Additional files added/appended to the “Cleaned Masterfile” are available too (\Addtional_data) [.xlsx format].
+Uncleaned scraped files (81 in total) are located in \Housing_data_raw \ Housing_data_batch1 and 2. Saved in .csv format and compressed as 7-zip files.
+
+Additional files added/appended to the Cleaned files are located in \Addtional_data and named DK_inflation_rates, DK_interest_rates, DK_morgage_rates and DK_regions_zip_codes. Saved in .xlsx format.
 
 ## Content
 Each row in the dataset contains a residential household sale during the period 1992 - 2024.
 
-“Cleaned Masterfile” columns:
+“Cleaned files” columns:
 
 #### 0 'date': is the transaction date.
 
