@@ -2,7 +2,7 @@
 
 ## About the dataset
 
-The dataset contains approximately 1,5 million residential household sales from Denmark ranging in the periode from 1992 to 2024. 
+The dataset contains approximately 1,5 million residential household sales from Denmark during the periode from 1992 to 2024. 
 
 The dataset has been scraped and cleaned (to some extent). Cleaned files are located in: \Housing_data_cleaned \ named DKHousingprices_1 and 2. Saved in parquet format (and saved as two files due to size).
 
