@@ -8,6 +8,8 @@ The dataset has been scraped and cleaned (to some extent). Cleaned files are loc
 
 Cleaning from raw files to above cleaned files is outlined in BoligsalgConcatCleanigGit.ipynb.
 
+Webscraping script: Webscrape_script.ipynb
+
 Provided you want to clean raw files from scratch yourself:
 
 Uncleaned scraped files (81 in total) are located in \Housing_data_raw \ Housing_data_batch1 and 2. Saved in .csv format and compressed as 7-zip files.
