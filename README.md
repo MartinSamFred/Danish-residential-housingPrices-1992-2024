@@ -23,7 +23,7 @@ Each row in the dataset contains a residential household sale during the period 
 
 #### 0 'date': is the transaction date.
 
-#### 1 'quarter': is the quarter based a standard calendar year.
+#### 1 'quarter': is the quarter based on a standard calendar year.
 
 #### 2 'house_id': unique house id (could be dropped)
 
