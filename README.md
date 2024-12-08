@@ -63,7 +63,7 @@ Each row in the dataset contains a residential household sale during the period 
 
 ## Uses
 
-Various (statistical) analysis and I assume machine learning as well. 
+Various (statistical) analysis, visualisation and I assume machine learning as well. 
 
 Practice exercises etc. 
 
