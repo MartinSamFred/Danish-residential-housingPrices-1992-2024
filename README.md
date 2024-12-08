@@ -72,7 +72,7 @@ Uncleaned scraped files are great to practice cleaning, especially string cleani
 *************************************
 
 ## Disclaimer
-The data and information in the data set provided here are intended to be used primarily for educational purposes only. I do not own any data, and all rights are reserved to the respective owners as outlined in “Acknowledgements/sources”. The accuracy of the dataset is not guaranteed accordingly any analysis and/or conclusions it’s solely at the user's own responsibly and accountability.
+The data and information in the data set provided here are intended to be used primarily for educational purposes only. I do not own any data, and all rights are reserved to the respective owners as outlined in “Acknowledgements/sources”. The accuracy of the dataset is not guaranteed accordingly any analysis and/or conclusions is solely at the user's own responsibly and accountability.
 
 *************************************
 
