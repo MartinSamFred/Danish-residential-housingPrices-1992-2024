@@ -6,9 +6,9 @@ The dataset contains approximately 1,5 million residential household sales from 
 
 The dataset has been scraped and cleaned (to some extent). Cleaned files are located in: \Housing_data_cleaned \ named DKHousingprices_1 and 2. Saved in parquet format (and saved as two files due to size). Note some cleaning might still be nessesary, see notebook under code on Kaggle (https://www.kaggle.com/datasets/martinfrederiksen/danish-residential-housing-prices-1992-2024/code).
 
-Cleaning from raw files to above cleaned files is outlined in BoligsalgConcatCleanigGit.ipynb.
+Cleaning from raw files to above cleaned files is outlined in BoligsalgConcatCleanigGit.ipynb. (done in Python version: 2.6.3)
 
-Webscraping script: Webscrape_script.ipynb
+Webscraping script: Webscrape_script.ipynb (done in Python version: 2.6.3)
 
 Provided you want to clean raw files from scratch yourself:
 
